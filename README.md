@@ -22,9 +22,9 @@ This package currently supports ROS 2 Humble, Jazzy, Rolling. Ensure that ROS 2 
 
    ```bash
    cd ~/${WORKSPACE}/src
-   git clone -b ${ROS_DISTRO} https://github.com/ROBOTIS-GIT/DynamixelSDK.git
-   git clone -b ${ROS_DISTRO} https://github.com/ROBOTIS-GIT/dynamixel_hardware_interface.git
-   git clone -b ${ROS_DISTRO} https://github.com/ROBOTIS-GIT/dynamixel_interfaces.git
+   git clone -b ${ROS_DISTRO} https://github.com/BCaran/DynamixelSDK.git
+   git clone -b ${ROS_DISTRO} https://github.com/BCaran/dynamixel_hardware_interface.git
+   git clone -b ${ROS_DISTRO} https://github.com/BCaran/dynamixel_hardware_interface.git
    ```
 
 2. Build the package:
