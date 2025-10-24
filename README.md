@@ -21,7 +21,6 @@ This package currently supports ROS 2 Humble, Jazzy, Rolling. Ensure that ROS 2 
 1. Clone the repository into your ROS workspace:
 
    ```bash
-   cd ~/${WORKSPACE}/src
    git clone -b ${ROS_DISTRO} https://github.com/BCaran/DynamixelSDK.git
    git clone -b ${ROS_DISTRO} https://github.com/BCaran/dynamixel_hardware_interface.git
    git clone -b ${ROS_DISTRO} https://github.com/BCaran/dynamixel_interfaces.git
